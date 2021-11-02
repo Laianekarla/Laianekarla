@@ -25,6 +25,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandAndrade&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=FernandaAndrade&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laianekarla&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Laianekarla&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
