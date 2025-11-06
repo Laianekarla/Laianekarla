@@ -14,7 +14,9 @@ Testes e Qualidade:
 ✅ Metodologias Ágeis
 
 Desenvolvimento (Estudos Full-Stack):
-💻 Java | HTML5 | CSS3 | JavaScript
+💻 Java | HTML5 | CSS3 | JavaScript | Python
 💾 MySQL
 🔧 Git | GitHub
 🚀 Bootstrap | Angular | Spring
+
+https://laianekarla.github.io/Meu-portfolio/#
